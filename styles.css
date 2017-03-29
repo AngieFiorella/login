@@ -148,6 +148,7 @@ a {
   padding: 5px;
   text-align: center;
   width: 28px;
+  cursor: pointer;
 }
 .fa-linkedin {
   color:#FFF;
