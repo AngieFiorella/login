@@ -64,10 +64,10 @@ body {
   width: 28px;
 }
 .eye {
-  border-bottom-right-radius: 3px;
-  border-left: 0;
-  border-top-right-radius: 3px;
   border: 1px solid #DDD;
+  border-bottom-right-radius: 3px;
+  border-left: none;
+  border-top-right-radius: 3px;
   display: inline-block;
   padding: 5px;
   text-align: center;
