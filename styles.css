@@ -65,7 +65,7 @@ body {
 }
 .eye {
   border-bottom-right-radius: 3px;
-  border-left: none;
+  border-left: 0;
   border-top-right-radius: 3px;
   border: 1px solid #DDD;
   display: inline-block;
@@ -90,10 +90,10 @@ a {
   text-decoration: none;
 }
 .email {
+  border: 1px solid #DDD;
   border-bottom-right-radius: 3px;
   border-left: none;
   border-top-right-radius: 3px;
-  border: 1px solid #DDD;
   font-size: .7em;
   padding-bottom: 7px;
   padding-left: 10px;
@@ -101,9 +101,9 @@ a {
   width: 100%;
 }
 .password {
+  border: 1px solid #DDD;
   border-left: none;
   border-right: none;
-  border: 1px solid #DDD;
   font-size: .7em;
   padding-bottom: 7px;
   padding-left: 10px;
